@@ -43,4 +43,4 @@ On any other device that is connected to the same WiFi as your Windows PC, just 
 <br/>  
   
 ***And That's It!***  
-You've successfully installed Home Assistant OS on your Virtual Box. But that's not it, check out my other repositories to find out on how to install [Mosquitto MQTT Broker](https://mosquitto.org/) and [Node-RED](https://nodered.org/) on Home Assistant to get started with MQTT over Home Assistant.
+You've successfully installed Home Assistant OS on your Virtual Box. But that's not it, check out my other repositories to find out on how to install [Mosquitto MQTT Broker](https://github.com/Bharadwaj-R/Mosquitto-MQTT-on-Home-Assistant) and [Node-RED](https://github.com/Bharadwaj-R/Node-RED-and-Home-Assistant) on Home Assistant to get started with MQTT over Home Assistant.
